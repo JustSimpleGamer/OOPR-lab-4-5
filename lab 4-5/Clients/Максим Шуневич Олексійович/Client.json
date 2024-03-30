@@ -1,0 +1,19 @@
+{
+  "Status": "Гість",
+  "Request": {
+    "State": 1,
+    "Apartment": {
+      "SleepingPlacesNumber": "Одномісний з одномісним ліжком",
+      "ApartmentСlass": "Економ",
+      "StayTime": [
+        7,
+        0,
+        0
+      ]
+    }
+  },
+  "Name": "Максим",
+  "Surname": "Шуневич",
+  "Patronymic": "Олексійович",
+  "PhoneNumber": "0673802728"
+}
